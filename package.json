@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "@serialport/parser-readline": "^13.0.0",
-    "fund": "^1.0.0",
-    "g": "^2.0.1",
-    "puppeteer": "^24.29.1",
-    "serialport": "^13.0.0"
-  }
-}
